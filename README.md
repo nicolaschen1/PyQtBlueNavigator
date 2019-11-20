@@ -27,11 +27,11 @@ Run the file blue_navigator.py.
 
 ## Graphical User Interface (GUI)
 
-![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a1.PNG)
-![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a2.PNG)
-![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a3.PNG)
-![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a4.PNG)
-![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a5.PNG)
+![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a1.png)
+![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a2.png)
+![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a3.png)
+![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a4.png)
+![PyQtBlueNavigator image](https://github.com/nicolaschen1/PyQtBlueNavigator/blob/master/images/a5.png)
 
 ## License
 MIT License
